@@ -1,0 +1,6 @@
+{
+  "name": "GameVault: Android Offline Mini-Games Container",
+  "description": "A high-fidelity simulated Android OS Container featuring full playable offline arcade, puzzle, card and strategy mini-games with local storage save states, custom sound synthesis, statistics, and badges tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
